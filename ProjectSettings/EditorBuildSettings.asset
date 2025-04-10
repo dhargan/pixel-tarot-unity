@@ -11,6 +11,12 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/MainMenu.unity
     guid: 09c85651c0fd98c40b82e9df971dbd41
+  - enabled: 1
+    path: Assets/Scenes/QuestionScene.unity
+    guid: 22ac658920bd695418ac806b350d1d83
+  - enabled: 1
+    path: Assets/Scenes/Cards.unity
+    guid: bae9575497d1a164496d06c0f68538d6
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
