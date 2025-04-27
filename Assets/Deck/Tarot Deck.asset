@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de4bda04aadcf3245a44adf51e84f32b, type: 3}
+  m_Name: Tarot Deck
+  m_EditorClassIdentifier: 
+  cards:
+  - {fileID: 11400000, guid: f52be4b1be007e34a83983031eaa9d88, type: 2}
+  - {fileID: 11400000, guid: f5e1acb65dbd3c24385ff4425091a6c0, type: 2}
+  - {fileID: 11400000, guid: c580f7dbdceff2047bd7f29328cf1a32, type: 2}
+  - {fileID: 11400000, guid: 889fc4e7f76ebce4798bead6ac549e86, type: 2}
+  - {fileID: 11400000, guid: 2a7964f70579a3340ac606a769e72fa7, type: 2}
+  - {fileID: 11400000, guid: c8ae22dae4ce18642b0900b08a695cbe, type: 2}
+  - {fileID: 11400000, guid: e1c83de5c8255ff4f9ea83cb9065f310, type: 2}
+  - {fileID: 11400000, guid: 5d680d3f3367cae49adf853e803d7c60, type: 2}
+  - {fileID: 11400000, guid: 4692b5d1f800bd54f8f4c76f0235ee52, type: 2}
+  - {fileID: 11400000, guid: 3d9e6566951a52847be490289428add7, type: 2}
+  - {fileID: 11400000, guid: 2c752ca1eff9bf4409d3e7c2af009df2, type: 2}
+  - {fileID: 11400000, guid: 10d6c91129addb043afa59b55b0fe862, type: 2}
+  - {fileID: 11400000, guid: d42b6814b1a7eb94f86de58c9fa2c5b8, type: 2}
+  - {fileID: 11400000, guid: 54b41494209f8d640bc1f306a3a02a51, type: 2}
+  - {fileID: 11400000, guid: a0f17c5661ca74740823311c53255d74, type: 2}
+  - {fileID: 11400000, guid: 115dc350f3cb1944f9fe7e2bdfe3c673, type: 2}
+  - {fileID: 11400000, guid: 8f1bdfe12edcc5a4389f6bc372fe7771, type: 2}
+  - {fileID: 11400000, guid: a9bb0d69895c8ea46b2101ea6d41a56b, type: 2}
+  - {fileID: 11400000, guid: d07385a75a083f24f950e751348ca7fe, type: 2}
+  - {fileID: 11400000, guid: 2afd66a5298dd65438d90a02fe8a1597, type: 2}
+  - {fileID: 11400000, guid: a3387d8607136ee4bbe6666400f9ca84, type: 2}
+  - {fileID: 11400000, guid: 58e71901b665f5f49b367247e202f8d7, type: 2}

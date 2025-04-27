@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0bdc0984238e10f489d2fe52a1536df1, type: 3}
+  m_Name: 2Wands
+  m_EditorClassIdentifier: 
+  cardName: Two of Wands
+  frontImage: {fileID: -4131254959076358366, guid: 051725dec286f034c9aee01f3151b16e, type: 3}
